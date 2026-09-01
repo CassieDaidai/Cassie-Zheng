@@ -1,177 +1,120 @@
-# 你好，我是 Cassie 👋
-
+# 你好，我是 Cassie
 
 [English](README.md) · [中文](README.zh-CN.md)
 
+## Brand / Content / AI × Marketing
 
+我是一名品牌与内容营销从业者，拥有近 10 年品牌策略、整合营销、内容传播和用户增长经验。
 
-## 品牌营销人 × AI探索者
+我的职业经历横跨 4A / 传播集团、内容平台和品牌方，长期参与消费品牌的品牌定位、Campaign 策划、社交内容、消费者洞察和增长项目。
 
-
-我是一名品牌营销人。
-
-过去10年，我专注于品牌策略、整合营销传播、内容增长与消费者沟通。
-
-
-我相信：
-
-> 营销不只是传播，
-> 更是理解人与创造连接。
-
-
-
-目前，我正在探索：
-
-AI 如何重新定义品牌、内容与增长。
-
-
+现在，我正在把过去的营销经验与 AI 工作流结合起来，探索 AI 如何进入真实的营销链路，而不只是提高文案生产效率。
 
 ---
 
-## 关于我
+## Snapshot
 
-
-我的经历覆盖：
-
-- 品牌策略
-- 整合营销传播
-- 内容营销
-- 社交媒体增长
-- 消费者洞察
-- 创意项目策划
-
-
-长期关注：
-
-- 品牌如何建立消费者关系
-- 内容如何产生影响力
-- AI如何提升营销效率
-
-
-涉及行业：
-
-- 快消 FMCG
-- 母婴
-- 美妆
-- 生活方式
-- 金融
-
-
+| | |
+|---|---|
+| **10 Years+** | Brand, content and integrated marketing experience |
+| **4A → Platform → Brand** | Worked across agency-side strategy, platform marketing, and brand-side growth |
+| **Multi-industry** | FMCG, beauty, mother & baby, lifestyle, home, finance, automotive and more |
+| **Current Focus** | AI × Marketing workflows for research, insight, strategy, content and measurement |
 
 ---
 
-## 🚀 当前探索方向
+## Experience
 
+### 4A / Communication Groups
 
-### 🤖 AI × Marketing
+早期在蓝色光标、麦肯 McCann、时趣等广告公司和传播集团从事策略与创意管理工作。
 
+主要参与品牌全案、整合营销方案、Campaign 策划、客户提案和项目落地，服务过快消、美妆、母婴、家居、金融、汽车等多个行业客户。
 
-探索 AI 如何帮助营销人：
+这段经历让我形成了比较扎实的策略基本功：理解 Brief、拆解品牌问题、提炼消费者洞察，并把策略转化为可执行的传播方案。
 
-- 提升消费者研究效率
-- 加速内容创作
-- 优化营销策略
-- 构建智能工作流程
+### Platform
 
+之后进入小红书平台，担任商业化方向的营销专家，重点服务华南区域美妆个护品牌。
 
+参与和推动过宝洁旗下 Olay、舒肤佳、潘婷、SK-II 等品牌项目，工作重点包括平台内容策略、IP 资源整合、达人内容合作和品牌在社交场域中的增长路径。
 
-### 📱 内容增长与创作者经济
+这段经历让我更理解内容平台的运行机制：用户为什么主动搜索，内容如何被看见，品牌如何从曝光走向心智和转化。
 
+### Brand Side
 
-研究：
+最近在新锐国货洗护品牌 8+Minutes / 弹动担任新媒体负责人。
 
-- 小红书内容生态
-- 达人成长路径
-- 爆款内容模型
-- 社交商业化
+从 0 到 1 搭建小红书内容矩阵、达人合作机制、种草内容模板、声量监测和数据复盘流程，推动内容、口碑和电商转化之间形成更清晰的闭环。
 
-
-
-### 🧠 品牌智能
-
-
-构建：
-
-- 品牌分析框架
-- 用户洞察模型
-- 营销方法论
-
-
+这段经历让我更靠近品牌真实经营：内容不只是表达，也要服务产品节奏、用户信任和生意结果。
 
 ---
 
-# 精选项目
+## Selected Work
 
+### Brand & Marketing Cases
 
-## 🚀 AI Marketing Lab
+品牌定位、Campaign 策划、消费者洞察、内容策略和增长案例的长期整理。
 
+这里会沉淀我对消费品牌、社交传播、平台内容和营销项目的案例拆解，重点关注“品牌问题是什么、消费者为什么在意、内容如何推动行动”。
 
-探索 AI 驱动的新营销方式。
+[View Repository](https://github.com/CassieDaidai/brand-strategy-field-notes)
 
+### AI × Marketing Lab
 
-包括：
+AI 进入营销工作流的实验场。
 
-- AI营销助手
-- Prompt框架
-- 内容生产流程
-- 营销自动化
+我会在这里记录 AI 如何参与消费者研究、Brief 消化、策略辅助、Prompt 工作流、内容生产、案例分析和营销自动化。
 
+[View Repository](https://github.com/CassieDaidai/ai-marketing-experiments)
 
+### Social Content Lab
 
----
+关于社交内容增长的研究笔记。
 
-## 📚 品牌案例研究库
+关注选题、点击率、内容结构、用户需求、平台机制、达人合作和内容从“被看见”到“被信任”的过程。
 
+[View Repository](https://github.com/CassieDaidai/creator-growth-lab)
 
-记录品牌观察与营销分析。
+### Cassie's Notes
 
+品牌、内容、AI 和创作者经济相关的长期思考。
 
-包括：
+这里不是一次性的文章列表，而是一个持续更新的个人知识库，用来记录观察、复盘、问题和方法论雏形。
 
-- 品牌定位
-- 消费者洞察
-- 营销案例拆解
-- 内容策略
-
-
-
----
-
-## 🔍 社交增长研究
-
-
-研究品牌与创作者如何在社交平台成长。
-
-
-关注：
-
-- 内容趋势
-- 用户需求
-- 增长策略
-
-
+[Read Notes](https://github.com/CassieDaidai/consumer-insight-archive)
 
 ---
 
-## ✍️ 我的笔记
+## Current Focus
 
+我现在最关注的问题是：AI 如何进入完整营销链路。
 
-持续记录：
+```text
+Research → Insight → Strategy → Content → Distribution → Measurement
+```
 
-- 品牌观察
-- 营销趋势
-- AI时代变化
-- 创作者经济
+对我来说，AI 不只是写文案或生成标题的工具。它更可能改变营销人的工作方式：如何更快整理信息、发现洞察、生成策略选项、建立内容系统，并用数据反馈持续优化。
 
-
+我也在持续思考另一个问题：当一个营销人的经验可以被结构化、索引化和复用时，它会不会变成一种新的个人资产。
 
 ---
 
-## 联系我
+## Latest Notes
 
+这里会持续更新我正在整理的内容。
 
-如果你也关注：
+| Topic | Status |
+|---|---|
+| AI × Marketing Workflow | In progress |
+| Brand Case Study Notes | In progress |
+| Social Content Growth | In progress |
+| Consumer Insight Archive | In progress |
 
-品牌 × 内容 × AI
+---
 
-欢迎交流。
+## Contact
+
+如果你也关注品牌、内容、AI、消费者洞察或创作者成长，欢迎交流。
+
